@@ -1,0 +1,1098 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: TheBuilt\n"
+"POT-Creation-Date: 2018-06-22 14:08+0200\n"
+"PO-Revision-Date: 2016-07-28 11:54+0200\n"
+"Last-Translator: dedalx <dedalx.rus@gmail.com>\n"
+"Language-Team: MagniumThemes <support@magniumthemes.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.8\n"
+"X-Poedit-KeywordsList: _e;__;esc_html_e;esc_html__;_nx;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:15
+msgid "Page not found"
+msgstr ""
+
+#: ../404.php:16
+msgid "404"
+msgstr ""
+
+#: ../404.php:18
+msgid ""
+"You may have typed the address incorrectly or you may have used an outdated "
+"link. Try search our site."
+msgstr ""
+
+#: ../404.php:21
+msgid "Search &hellip;"
+msgstr ""
+
+#: ../404.php:21 ../searchform-popup.php:10 ../searchform.php:10
+msgid "Search"
+msgstr ""
+
+#: ../archive.php:33
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../archive.php:36
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: ../archive.php:43
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: ../archive.php:51
+#, php-format
+msgid "Daily: %s"
+msgstr ""
+
+#: ../archive.php:54
+#, php-format
+msgid "Monthly: %s"
+msgstr ""
+
+#: ../archive.php:57
+#, php-format
+msgid "Yearly: %s"
+msgstr ""
+
+#: ../archive.php:60
+msgid "Asides"
+msgstr ""
+
+#: ../archive.php:63
+msgid "Images"
+msgstr ""
+
+#: ../archive.php:66
+msgid "Videos"
+msgstr ""
+
+#: ../archive.php:69
+msgid "Quotes"
+msgstr ""
+
+#: ../archive.php:72
+msgid "Links"
+msgstr ""
+
+#: ../archive.php:75
+msgid "Archives"
+msgstr ""
+
+#: ../author-bio.php:11
+msgid "Written by"
+msgstr ""
+
+#: ../comments.php:29
+msgid "1 comment"
+msgstr ""
+
+#: ../comments.php:39
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:46 ../comments.php:92
+msgid "Write a comment"
+msgstr ""
+
+#: ../comments.php:71
+msgid "Older Comments"
+msgstr ""
+
+#: ../comments.php:73
+msgid "Comments navigation"
+msgstr ""
+
+#: ../comments.php:75
+msgid "Newer Comments"
+msgstr ""
+
+#: ../comments.php:89
+msgid "0 comments"
+msgstr ""
+
+#: ../content-search.php:55 ../content-single.php:132 ../content.php:49
+#: ../inc/theme-tags.php:80 ../inc/theme-tags.php:90
+msgid "Edit"
+msgstr ""
+
+#: ../content-search.php:68 ../content-single.php:144 ../content.php:60
+msgid "Pages:"
+msgstr ""
+
+#: ../content-single.php:141
+msgid "Continue reading..."
+msgstr ""
+
+#: ../content-single.php:162
+#, php-format
+msgid "Tags:&nbsp; %1$s"
+msgstr ""
+
+#: ../content.php:24
+msgid "Continue reading"
+msgstr ""
+
+#: ../functions.php:122
+msgid "Logo for Transparent Header (Light logo)"
+msgstr ""
+
+#: ../functions.php:138
+msgid "Main Menu"
+msgstr ""
+
+#: ../functions.php:139
+msgid "Top Menu"
+msgstr ""
+
+#: ../functions.php:140
+msgid "Footer Menu"
+msgstr ""
+
+#: ../functions.php:265
+msgid "Follow this steps to setup your TheBuilt theme within minutes"
+msgstr ""
+
+#: ../functions.php:265
+msgid "Show steps"
+msgstr ""
+
+#: ../functions.php:265
+msgid "Hide this message forever"
+msgstr ""
+
+#: ../functions.php:267
+msgid "Thanks for choosing TheBuilt WordPress theme"
+msgstr ""
+
+#: ../functions.php:268
+msgid "Follow this steps to setup your website within minutes:"
+msgstr ""
+
+#: ../functions.php:269
+msgid "Install required & recommended plugins"
+msgstr ""
+
+#: ../functions.php:270
+msgid "Use 1-Click Demo Data Import"
+msgstr ""
+
+#: ../functions.php:271
+msgid "Manage theme options"
+msgstr ""
+
+#: ../functions.php:272
+msgid "Read Theme Documentation Guide"
+msgstr ""
+
+#: ../functions.php:273
+msgid "Rate our Theme if you enjoy it!"
+msgstr ""
+
+#: ../functions.php:273
+msgid "Hide this message"
+msgstr ""
+
+#: ../functions.php:331
+msgid "Read more"
+msgstr ""
+
+#: ../functions.php:383
+msgid "Please fill out email and purchase code fields."
+msgstr ""
+
+#: ../functions.php:387
+msgid "Registering theme..."
+msgstr ""
+
+#: ../functions.php:407
+msgid "Theme registered succesfully!"
+msgstr ""
+
+#: ../functions.php:413
+msgid ""
+"Purchase code is not valid. Your purchase code should look like this: "
+"36434418-e837-48c5-8737-f20d52b36a1f"
+msgstr ""
+
+#: ../functions.php:420
+msgid ""
+"<span class='error'>Oops! It looks like the your hosting blocks external "
+"connections to our server.<br/>Please click the button below to skip "
+"activation for 1 day and start using all theme features right now. <br/"
+">Please <a href='http://support.magniumthemes.com/' target='_blank'>contact "
+"our support team</a> to get theme activated manually.</span><br><a "
+"href='themes.php?page=ipanel_THEBUILT_PANEL&act=registration_skip' "
+"class='button button-primary button-hero activate-theme-btn'>Start using "
+"theme</a>"
+msgstr ""
+
+#: ../iPanel/classes/ipanel.class.php:175
+msgid "Are you sure you want to reset back to the defaults?"
+msgstr ""
+
+#: ../iPanel/classes/ipanel.class.php:176
+msgid "Are you sure?"
+msgstr ""
+
+#: ../iPanel/classes/ipanel.class.php:298
+#: ../iPanel/classes/ipanel.class.php:346
+#: ../iPanel/classes/ipanel.class.php:389
+#: ../iPanel/classes/ipanel.class.php:472
+msgid "Error!"
+msgstr ""
+
+#: ../iPanel/classes/ipanel.class.php:298
+msgid "Options Updated."
+msgstr ""
+
+#: ../iPanel/classes/ipanel.class.php:365
+msgid "You've not specified any data."
+msgstr ""
+
+#: ../iPanel/classes/ipanel.class.php:379
+msgid "Data has been imported successfully."
+msgstr ""
+
+#: ../iPanel/classes/ipanel.class.php:382
+msgid "An error occured while importing data."
+msgstr ""
+
+#: ../iPanel/classes/ipanel.class.php:389
+msgid "Options Reset."
+msgstr ""
+
+#: ../iPanel/classes/ipanel.class.php:414
+msgid "The file permanently deleted."
+msgstr ""
+
+#: ../iPanel/classes/ipanel.class.php:417
+msgid "ERROR!"
+msgstr ""
+
+#: ../iPanel/classes/ipanel.class.php:449
+#: ../iPanel/classes/ipanel.class.php:459
+#: ../iPanel/classes/ipanel.class.php:2190
+#: ../iPanel/classes/ipanel.class.php:2200
+msgid "File URL"
+msgstr ""
+
+#: ../iPanel/classes/ipanel.class.php:450
+#: ../iPanel/classes/ipanel.class.php:460
+#: ../iPanel/classes/ipanel.class.php:2191
+#: ../iPanel/classes/ipanel.class.php:2201
+msgid "File Path"
+msgstr ""
+
+#: ../iPanel/classes/ipanel.class.php:894
+msgid "Error in download the file."
+msgstr ""
+
+#: ../iPanel/classes/ipanel.class.php:1251
+#: ../iPanel/classes/ipanel.class.php:1350
+msgid "Save All Changes"
+msgstr ""
+
+#: ../iPanel/classes/ipanel.class.php:1254
+msgid "Premium WordPress Themes"
+msgstr ""
+
+#: ../iPanel/classes/ipanel.class.php:1255
+msgid "Support Center"
+msgstr ""
+
+#: ../iPanel/classes/ipanel.class.php:1257
+#: ../iPanel/classes/ipanel.class.php:1357
+msgid "Toggle Preview"
+msgstr ""
+
+#: ../iPanel/classes/ipanel.class.php:1275
+msgid "Theme Registration"
+msgstr ""
+
+#: ../iPanel/classes/ipanel.class.php:1298
+msgid "Welcome to TheBuilt!"
+msgstr ""
+
+#: ../iPanel/classes/ipanel.class.php:1300
+msgid "Enter your email"
+msgstr ""
+
+#: ../iPanel/classes/ipanel.class.php:1300
+msgid "Enter your theme purchase code"
+msgstr ""
+
+#: ../iPanel/classes/ipanel.class.php:1301
+msgid "How to find your theme purchase code?"
+msgstr ""
+
+#: ../iPanel/classes/ipanel.class.php:1302
+msgid "Receive theme updates notifications and news"
+msgstr ""
+
+#: ../iPanel/classes/ipanel.class.php:1302
+msgid "Register theme"
+msgstr ""
+
+#: ../iPanel/classes/ipanel.class.php:1334
+#: ../iPanel/classes/ipanel.class.php:1338
+#: ../iPanel/classes/ipanel.class.php:1342
+msgid "Your browser doesn't support iframes."
+msgstr ""
+
+#: ../iPanel/classes/ipanel.class.php:1354
+msgid "Reset theme options"
+msgstr ""
+
+#: ../iPanel/classes/ipanel.class.php:2175
+#: ../iPanel/classes/ipanel.class.php:2454
+#: ../iPanel/classes/ipanel.class.php:2455
+msgid "Choose File"
+msgstr ""
+
+#: ../iPanel/classes/ipanel.class.php:2192
+msgid "Delete"
+msgstr ""
+
+#: ../iPanel/classes/ipanel.class.php:2332
+#: ../iPanel/classes/ipanel.class.php:2352
+#: ../iPanel/classes/ipanel.class.php:2371
+msgid "Item"
+msgstr ""
+
+#: ../iPanel/classes/ipanel.class.php:2366
+msgid "New Item"
+msgstr ""
+
+#: ../iPanel/classes/ipanel.class.php:2453
+msgid "Upload"
+msgstr ""
+
+#: ../iPanel/classes/ipanel.class.php:2488
+msgid "You need to save options first."
+msgstr ""
+
+#: ../iPanel/classes/ipanel.class.php:2499
+msgid "Download File"
+msgstr ""
+
+#: ../iPanel/classes/ipanel.class.php:2607
+msgid "Enter Code"
+msgstr ""
+
+#: ../iPanel/classes/ipanel.class.php:2608
+msgid "Import File"
+msgstr ""
+
+#: ../iPanel/classes/ipanel.class.php:2610
+msgid "Import"
+msgstr ""
+
+#: ../iPanel/options.php:1394
+msgid "TheBuilt Control Panel"
+msgstr ""
+
+#: ../iPanel/options.php:1395
+msgid "Theme Control Panel "
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:393
+#: ../inc/class-tgm-plugin-activation.php:912
+#: ../inc/class-tgm-plugin-activation.php:2618
+#: ../inc/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:394
+#: ../inc/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1019
+#: ../inc/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2473
+#, php-format
+msgid "All <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/mega-menu/edit_custom_walker.php:80
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: ../inc/mega-menu/edit_custom_walker.php:84
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: ../inc/mega-menu/edit_custom_walker.php:108
+msgid "Move up"
+msgstr ""
+
+#: ../inc/mega-menu/edit_custom_walker.php:121
+msgid "Move down"
+msgstr ""
+
+#: ../inc/mega-menu/edit_custom_walker.php:123
+#: ../inc/mega-menu/edit_custom_walker.php:125
+msgid "Edit Menu Item"
+msgstr ""
+
+#: ../inc/mega-menu/edit_custom_walker.php:134
+msgid "URL"
+msgstr ""
+
+#: ../inc/mega-menu/edit_custom_walker.php:141
+msgid "Navigation Label"
+msgstr ""
+
+#: ../inc/mega-menu/edit_custom_walker.php:147
+msgid "Title Attribute"
+msgstr ""
+
+#: ../inc/mega-menu/edit_custom_walker.php:154
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: ../inc/mega-menu/edit_custom_walker.php:159
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: ../inc/mega-menu/edit_custom_walker.php:165
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: ../inc/mega-menu/edit_custom_walker.php:171
+msgid "Description"
+msgstr ""
+
+#: ../inc/mega-menu/edit_custom_walker.php:173
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: ../inc/mega-menu/edit_custom_walker.php:183
+msgid "Use this menu item for Onepage navigation"
+msgstr ""
+
+#: ../inc/mega-menu/edit_custom_walker.php:194
+msgid "Megamenu columns"
+msgstr ""
+
+#: ../inc/mega-menu/edit_custom_walker.php:208
+msgid "Show this submenu fullwidth"
+msgstr ""
+
+#: ../inc/mega-menu/edit_custom_walker.php:210
+msgid "No"
+msgstr ""
+
+#: ../inc/mega-menu/edit_custom_walker.php:211
+msgid "Yes"
+msgstr ""
+
+#: ../inc/mega-menu/edit_custom_walker.php:217
+msgid "Show sidebar with widgets inside this submenu"
+msgstr ""
+
+#: ../inc/mega-menu/edit_custom_walker.php:220
+msgid "Do not add sidebar"
+msgstr ""
+
+#: ../inc/mega-menu/edit_custom_walker.php:238
+msgid "Background image URL"
+msgstr ""
+
+#: ../inc/mega-menu/edit_custom_walker.php:246
+msgid "Background repeat"
+msgstr ""
+
+#: ../inc/mega-menu/edit_custom_walker.php:248
+msgid "No repeat"
+msgstr ""
+
+#: ../inc/mega-menu/edit_custom_walker.php:249
+msgid "Repeat"
+msgstr ""
+
+#: ../inc/mega-menu/edit_custom_walker.php:250
+msgid "Repeat X"
+msgstr ""
+
+#: ../inc/mega-menu/edit_custom_walker.php:251
+msgid "Repeat Y"
+msgstr ""
+
+#: ../inc/mega-menu/edit_custom_walker.php:257
+msgid "Background position X"
+msgstr ""
+
+#: ../inc/mega-menu/edit_custom_walker.php:259
+#: ../inc/mega-menu/edit_custom_walker.php:269
+msgid "Center"
+msgstr ""
+
+#: ../inc/mega-menu/edit_custom_walker.php:260
+msgid "Left"
+msgstr ""
+
+#: ../inc/mega-menu/edit_custom_walker.php:261
+msgid "Right"
+msgstr ""
+
+#: ../inc/mega-menu/edit_custom_walker.php:267
+msgid "Background position Y"
+msgstr ""
+
+#: ../inc/mega-menu/edit_custom_walker.php:270
+msgid "Top"
+msgstr ""
+
+#: ../inc/mega-menu/edit_custom_walker.php:271
+msgid "Bottom"
+msgstr ""
+
+#: ../inc/mega-menu/edit_custom_walker.php:278
+msgid "Menu item Icon"
+msgstr ""
+
+#: ../inc/mega-menu/edit_custom_walker.php:281
+msgid "Current icon"
+msgstr ""
+
+#: ../inc/mega-menu/edit_custom_walker.php:887
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: ../inc/mega-menu/edit_custom_walker.php:900
+msgid "Remove"
+msgstr ""
+
+#: ../inc/mega-menu/edit_custom_walker.php:901
+msgid "Cancel"
+msgstr ""
+
+#: ../inc/theme-functions.php:362 ../inc/theme-functions.php:441
+msgid "Menu"
+msgstr ""
+
+#: ../inc/theme-tags.php:36
+msgid "Previous post"
+msgstr ""
+
+#: ../inc/theme-tags.php:38
+msgid "Next post"
+msgstr ""
+
+#: ../inc/theme-tags.php:48
+msgid "Older posts"
+msgstr ""
+
+#: ../inc/theme-tags.php:54
+msgid "Newer posts"
+msgstr ""
+
+#: ../inc/theme-tags.php:80
+msgid "Pingback:"
+msgstr ""
+
+#: ../inc/theme-tags.php:106
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../inc/theme-widgets.php:11
+msgid "Blog sidebar"
+msgstr ""
+
+#: ../inc/theme-widgets.php:13
+msgid ""
+"Widgets in this area will be shown in the left or right site column for blog "
+"related pages."
+msgstr ""
+
+#: ../inc/theme-widgets.php:18
+msgid "Page sidebar"
+msgstr ""
+
+#: ../inc/theme-widgets.php:20
+msgid ""
+"Widgets in this area will be shown in the left or right site column for "
+"pages."
+msgstr ""
+
+#: ../inc/theme-widgets.php:25
+msgid "Portfolio sidebar"
+msgstr ""
+
+#: ../inc/theme-widgets.php:27
+msgid ""
+"Widgets in this area will be shown in the left or right site column for "
+"portfolio items pages."
+msgstr ""
+
+#: ../inc/theme-widgets.php:32
+msgid "WooCommerce sidebar"
+msgstr ""
+
+#: ../inc/theme-widgets.php:34
+msgid ""
+"Widgets in this area will be shown in the left or right site column for "
+"woocommerce pages."
+msgstr ""
+
+#: ../inc/theme-widgets.php:39
+msgid "Offcanvas Right sidebar"
+msgstr ""
+
+#: ../inc/theme-widgets.php:41
+msgid ""
+"Widgets in this area will be shown in the right floating offcanvas menu "
+"sidebar that can be opened by toggle button in header. You can enable this "
+"sidebar in theme control panel."
+msgstr ""
+
+#: ../inc/theme-widgets.php:47
+msgid "Footer 4 column sidebar #1"
+msgstr ""
+
+#: ../inc/theme-widgets.php:49
+msgid "Widgets in this area will be shown in site footer in 4 column."
+msgstr ""
+
+#: ../inc/theme-widgets.php:55
+msgid "Footer 4 column sidebar #2"
+msgstr ""
+
+#: ../inc/theme-widgets.php:57
+msgid ""
+"Widgets in this area will be shown in site footer in 4 column after Footer "
+"sidebar #1."
+msgstr ""
+
+#: ../inc/theme-widgets.php:65
+msgid "MegaMenu sidebar #"
+msgstr ""
+
+#: ../inc/theme-widgets.php:67
+msgid ""
+"You can use this sidebar to display widgets inside megamenu items in menus."
+msgstr ""
+
+#: ../inc/theme-widgets.php:85
+msgid "Your site&#8217;s most recent Posts with thumbnails."
+msgstr ""
+
+#: ../inc/theme-widgets.php:86
+msgid "TheBuilt Recent Posts"
+msgstr ""
+
+#: ../inc/theme-widgets.php:201
+msgid "Title:"
+msgstr ""
+
+#: ../inc/theme-widgets.php:204
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../inc/theme-widgets.php:208
+msgid "Display post date?"
+msgstr ""
+
+#: ../inc/theme-widgets.php:211
+msgid "Display post featured image?"
+msgstr ""
+
+#: ../index.php:40
+msgid "News"
+msgstr ""
+
+#: ../no-results.php:15
+msgid "Nothing found"
+msgstr ""
+
+#: ../no-results.php:18
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../no-results.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../no-results.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../portfolio-related.php:49
+msgid "More projects"
+msgstr ""
+
+#: ../search.php:28
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../searchform-popup.php:9
+msgid "Type keyword(s) here and hit Enter &hellip;"
+msgstr ""
+
+#: ../searchform.php:9
+msgid "Type keyword(s) here"
+msgstr ""
+
+#: ../single-mgt_portfolio.php:211
+msgid "Prev"
+msgstr ""
+
+#: ../single-mgt_portfolio.php:218
+msgid "Next"
+msgstr ""
+
+#: ../single-mgt_portfolio.php:332
+msgid "Client:"
+msgstr ""
+
+#: ../single-mgt_portfolio.php:335
+msgid "Project url:"
+msgstr ""
+
+#: ../single-mgt_portfolio.php:339
+msgid "Location:"
+msgstr ""
+
+#: ../single-mgt_portfolio.php:343
+msgid "Area:"
+msgstr ""
+
+#: ../single-mgt_portfolio.php:347
+msgid "Value:"
+msgstr ""
+
+#: ../single-mgt_portfolio.php:351
+msgid "Completed date:"
+msgstr ""
+
+#: ../single-mgt_portfolio.php:355
+msgid "Architect:"
+msgstr ""
+
+#: ../single-mgt_portfolio.php:358
+msgid "Category:"
+msgstr ""
+
+#: ../js/TweenMax.min.js:15
+msgid "marginTop,marginRight,marginBottom,marginLeft"
+msgstr ""
+
+#: ../js/TweenMax.min.js:15
+msgid "paddingTop,paddingRight,paddingBottom,paddingLeft"
+msgstr ""

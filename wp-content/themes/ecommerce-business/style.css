@@ -1,0 +1,150 @@
+/*
+Theme Name: eCommerce Business
+Description: eCommerce Business is a Multipurpose, Responsive, SEO Friendly and Fully Customizable WordPress theme for Business and eCommerce Website. it can be use to display informations and sell products online. Theme Features: One Click Demo Import, Custom Logo, Custom Menu, Header Banner Widgets, Social Profile, Customizable Top Bar, Left Sidebar Layout, Right Sidebar Layout, Full Width Layout, Footer Widgets, Footer Copyright Section, Typography Options, Blog Options, WooCommerce Options, Header Image, Translational Ready,  Contact Form 7 Ready, Elementor Page Builder ready, WooCommerce Ready. it can be use for many type of websites such as eCommerce, agency, architecture, blog, photography, lifestyle, construction, education, hotel, one page, portfolio, restaurant, real estate, travel, startups and similar websites. DEMO : http://demo.dithemes.com/di-business/
+Version: 1.0.1
+Author: dithemes
+Author URI: https://dithemes.com/
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: one-column, two-columns, left-sidebar, right-sidebar, grid-layout, custom-background, custom-colors, custom-header, custom-logo, custom-menu, editor-style, featured-images, footer-widgets, flexible-header, full-width-template, microformats, post-formats, sticky-post, theme-options, threaded-comments, translation-ready, blog, e-commerce, portfolio
+Text Domain: ecommerce-business
+Template: di-business
+*/
+
+.bgtoph {
+	background-color: #cc9900;
+}
+
+.navbarprimary {
+	background-color: #cc9900;
+}
+
+.navbarprimary .dropdown-menu {
+	border-bottom-color: #cc9900;
+}
+
+#back-to-top, .di_business_social_widget a, .bbp-submit-wrapper .button {
+	background-color: #cc9900;
+}
+
+.side-menu-menu-button {
+	background-color: #cc9900;
+}
+
+.content-first .content-second h3.the-title {
+	background-color: #cc9900;
+}
+
+.content-first .content-second h1.the-title, .woocommerce .left-content h1.page-title {
+	background-color: #cc9900;
+}
+
+.widget_sidebar_main .right-widget-title {
+	background-color: #cc9900;
+}
+
+.masterbtn {
+	background-color: #cc9900;
+}
+
+.post-navigation .nav-next a, .post-navigation .nav-previous a {
+	background-color: #cc9900;
+}
+
+.tagcloud a {
+	background-color: #cc9900;
+}
+
+.tagcloud a::before {
+	border-right-color: #cc9900;
+}
+
+.singletags a {
+	background-color: #cc9900;
+}
+
+.singletags a::before {
+	border-right-color: #cc9900;
+}
+
+.footer {
+	border-color: #cc9900;
+}
+
+.footer a, .widgets_footer ul li::before {
+	color: #cc9900;
+}
+
+.footer-copyright a {
+	color: #cc9900;
+}
+
+.woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button {
+	background-color: #cc9900;
+}
+
+.woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt {
+	background-color: #cc9900 !important;
+}
+
+.woocommerce ul.products li.product, .woocommerce-page ul.products li.product {
+	border: 1px solid #F0F0F0;
+	overflow: hidden;
+}
+
+.woocommerce ul.products li.product .onsale, .woocommerce span.onsale {
+	margin: 3px 3px 0 0;
+	padding: 5px 10px;
+	line-height: 17px;
+	min-height: 0;
+	min-width: 0;
+}
+
+.woocommerce span.onsale {
+	border-radius: 20%;
+}
+
+.woocommerce ul.products li.product .star-rating {
+	display: none;
+}
+
+.woocommerce .woocommerce-result-count {
+	font-size: 12px;
+}
+
+.woocommerce .woocommerce-ordering select {
+	padding: 5px;
+	border: 1px dotted #A7A7A7;
+	margin: 2px 6px;
+	color: #828282;
+	background-color: #fbfbfb;
+}
+
+.woocommerce ul.products li.product .woocommerce-loop-product__title {
+	text-align: center;
+	margin-bottom: 6px;
+}
+
+.woocommerce ul.products li.product .woocommerce-loop-category__title {
+	text-align: center;
+	margin-bottom: 6px;
+}
+
+.woocommerce ul.products li.product .price {
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+.woocommerce ul.products li.product .button {
+	margin: 0 auto;
+	display: table;
+}
+
+.woocommerce a.added_to_cart {
+	display: table;
+	margin: 0 auto;
+}
+
+.woocommerce-cart table.cart img {
+	width: 60px;
+}

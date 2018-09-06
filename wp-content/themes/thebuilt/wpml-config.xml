@@ -1,0 +1,9 @@
+<wpml-config>
+    <admin-texts>
+        <key name="THEBUILT_PANEL">
+        	<key name="header_info_editor" />
+            <key name="header_info_2_editor" />
+            <key name="footer_copyright_editor" />
+        </key>
+    </admin-texts>
+</wpml-config>
